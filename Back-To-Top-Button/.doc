@@ -7,7 +7,7 @@ Add any of the below codes to an CMS page and a Back To Top button will be gener
 
 
 
-<script src="https://cdn.rawgit.com/dicksmith01/Back-To-Top/master/.js"></script>
+<script src="https://raw.githubusercontent.com/dicksmith01/Content/master/Back-To-Top-Button/.js"></script>
 
 
 <p id="back-top">
