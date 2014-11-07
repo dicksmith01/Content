@@ -8,15 +8,14 @@ A collection of the DSE Content Teams codes and scripts used for developing and 
           Index:
           - Samsung SIS
             - Navigation Bar
-              - CSS
-              - HTML
             - Image Gallery
-              - CSS
-              - HTML
-              - JS
           - LightBox
             - PopOut Video
-              -JS
+          - FancyBox
+            - Image Gallery
+          - Countdown Timer
+            - Hourly timer
+            
             
 
 
