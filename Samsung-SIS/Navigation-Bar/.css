@@ -1,0 +1,61 @@
+/* Used for navigation */
+#samsung ul { 
+    width: 940px;
+	position: relative;
+	margin: 0; 
+	padding: 10px; 
+	list-style-type: none; 
+	text-align: center !important; 
+	background-color: #0d5fb1 !important;
+	height: 49px;
+	} 
+ 
+ #samsung li {
+	border-right-length: 100px !important;
+	magrin-left: 10px;
+}
+ 
+#samsung ul li {  
+	display: inline; 
+	} 
+ 
+#samsung ul li a { 
+	text-decoration: none; 
+	padding: 0px 1em; 
+	color: #fff !important; 
+	background-color: #0d5fb1 !important; 
+	margin-left: -30px;
+	font-size: 11pt;
+
+	} 
+ 
+#samsung ul li a:hover { 
+       color: #fff !important;
+       background-color: #065FEC !important;
+       padding-top: 19px;
+       padding-bottom: 19px;
+	}
+
+#samsungLogo {
+
+    margin-left: 1px;
+    margin-top: 7px;
+    width: 198px;
+    position: absolute;
+    height: 60px;
+    z-index: 1;
+
+
+}
+
+
+
+
+#imgSize {
+
+
+	width: 200px;
+
+
+}
+
