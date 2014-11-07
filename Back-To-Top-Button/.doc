@@ -1,0 +1,18 @@
+
+Add any of the below codes to an CMS page and a Back To Top button will be generated on the page:
+
+
+
+
+
+
+
+<script src="https://cdn.rawgit.com/dicksmith01/Back-To-Top/master/.js"></script>
+
+
+<p id="back-top">
+	<a href="#top">
+		<img src="{{media url='wysiwyg/banner/AU/CTAs/BacktoTop_V2.png'}}" style="position:fixed !important;bottom:0px;left:84px; margin-top: 265px; top: 50%; margin-left: -592px; left: 50%;">
+		<img src="{{media url='wysiwyg/banner/AU/CTAs/BacktoTop_V2.png'}}" style="position:fixed !important;bottom:0px;left:84px; margin-top: 265px; top: 50%; margin-left: 490px; left: 50%;">
+	</a>
+</p>
