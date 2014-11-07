@@ -5,16 +5,27 @@ A collection of the DSE Content Teams codes and scripts used for developing and 
 
 
 
-          Index:
+      Index:
+          
           - Samsung SIS
             - Navigation Bar
-            - Image Gallery
+            
           - LightBox
+            - Image Gallery
             - PopOut Video
+            
           - FancyBox
             - Image Gallery
+            - PopOut Video
+            
           - Countdown Timer
             - Hourly timer
+            
+          - Default CSS
+            - *
+            - *
+            - *
+          
             
             
 
