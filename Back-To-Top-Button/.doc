@@ -7,7 +7,10 @@ Add any of the below codes to an CMS page and a Back To Top button will be gener
 
 
 
-<script src="https://raw.githubusercontent.com/dicksmith01/Content/master/Back-To-Top-Button/.js"></script>
+
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="https://cdn.rawgit.com/dicksmith01/Content/f8a7fb463e1792e0a2b56c6d98fa0ef9ba62ac87/Back-To-Top-Button/.js"></script>
 
 
 <p id="back-top">
@@ -16,3 +19,4 @@ Add any of the below codes to an CMS page and a Back To Top button will be gener
 		<img src="{{media url='wysiwyg/banner/AU/CTAs/BacktoTop_V2.png'}}" style="position:fixed !important;bottom:0px;left:84px; margin-top: 265px; top: 50%; margin-left: 490px; left: 50%;">
 	</a>
 </p>
+
